@@ -1,9 +1,9 @@
 body {
-  background: #8355E5;
-  color: #C3ABF7;
+  background: #80aaff;
+  color:#007acc;
+  align: center;
 }
 
-h1 {
+a {
   color: white;
-  align: center;
 }
